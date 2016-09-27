@@ -1,0 +1,250 @@
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\csc.exe
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\vbc.exe
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Financas.dll.config
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Financas.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Financas.pdb
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\EntityFramework.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\EntityFramework.SqlServer.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Helpers.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Mvc.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Razor.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\EntityFramework.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\EntityFramework.SqlServer.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Razor.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Helpers.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\System.Web.Mvc.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\obj\Debug\Financas.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\obj\Debug\Financas.pdb
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.Web.Common.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.Web.Mvc.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\WebActivatorEx.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.Web.Common.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\Ninject.Web.Mvc.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\WebMatrix.Data.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\WebMatrix.WebData.dll
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\WebMatrix.Data.xml
+C:\Leo\Alura\Trilha Asp.net MVC\Projeto Completo - Controle financeiro\Financas\Financas\bin\WebMatrix.WebData.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\csc.exe
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\vbc.exe
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Leo\portfolio asp.net\Financas\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Financas.dll.config
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Financas.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Financas.pdb
+C:\Leo\portfolio asp.net\Financas\Financas\bin\EntityFramework.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\EntityFramework.SqlServer.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.Web.Common.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.Web.Mvc.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Helpers.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Mvc.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Razor.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\WebActivatorEx.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\WebMatrix.Data.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\WebMatrix.WebData.dll
+C:\Leo\portfolio asp.net\Financas\Financas\bin\EntityFramework.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\EntityFramework.SqlServer.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.Web.Common.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\Ninject.Web.Mvc.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\WebMatrix.Data.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\WebMatrix.WebData.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Razor.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Helpers.xml
+C:\Leo\portfolio asp.net\Financas\Financas\bin\System.Web.Mvc.xml
+C:\Leo\portfolio asp.net\Financas\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+C:\Leo\portfolio asp.net\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Leo\portfolio asp.net\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Leo\portfolio asp.net\Financas\Financas\obj\Debug\Financas.dll
+C:\Leo\portfolio asp.net\Financas\Financas\obj\Debug\Financas.pdb
+C:\Leo\Alura\Financas\Financas\bin\roslyn\csc.exe
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Leo\Alura\Financas\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Leo\Alura\Financas\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Leo\Alura\Financas\Financas\bin\roslyn\vbc.exe
+C:\Leo\Alura\Financas\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Leo\Alura\Financas\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Leo\Alura\Financas\Financas\bin\Financas.dll.config
+C:\Leo\Alura\Financas\Financas\bin\Financas.dll
+C:\Leo\Alura\Financas\Financas\bin\Financas.pdb
+C:\Leo\Alura\Financas\Financas\bin\EntityFramework.dll
+C:\Leo\Alura\Financas\Financas\bin\EntityFramework.SqlServer.dll
+C:\Leo\Alura\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Leo\Alura\Financas\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Leo\Alura\Financas\Financas\bin\Ninject.dll
+C:\Leo\Alura\Financas\Financas\bin\Ninject.Web.Common.dll
+C:\Leo\Alura\Financas\Financas\bin\Ninject.Web.Mvc.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Helpers.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Mvc.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Razor.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.dll
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Leo\Alura\Financas\Financas\bin\WebActivatorEx.dll
+C:\Leo\Alura\Financas\Financas\bin\WebMatrix.Data.dll
+C:\Leo\Alura\Financas\Financas\bin\WebMatrix.WebData.dll
+C:\Leo\Alura\Financas\Financas\bin\EntityFramework.xml
+C:\Leo\Alura\Financas\Financas\bin\EntityFramework.SqlServer.xml
+C:\Leo\Alura\Financas\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Leo\Alura\Financas\Financas\bin\Ninject.xml
+C:\Leo\Alura\Financas\Financas\bin\Ninject.Web.Common.xml
+C:\Leo\Alura\Financas\Financas\bin\Ninject.Web.Mvc.xml
+C:\Leo\Alura\Financas\Financas\bin\WebMatrix.Data.xml
+C:\Leo\Alura\Financas\Financas\bin\WebMatrix.WebData.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Razor.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Helpers.xml
+C:\Leo\Alura\Financas\Financas\bin\System.Web.Mvc.xml
+C:\Leo\Alura\Financas\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+C:\Leo\Alura\Financas\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Leo\Alura\Financas\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Leo\Alura\Financas\Financas\obj\Debug\Financas.dll
+C:\Leo\Alura\Financas\Financas\obj\Debug\Financas.pdb
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\csc.exe
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\vbc.exe
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.dll.config
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.pdb
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.SqlServer.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Common.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Mvc.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Helpers.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Mvc.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Razor.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\WebActivatorEx.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.Data.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.WebData.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.SqlServer.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Common.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Mvc.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.Data.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.WebData.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Razor.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Helpers.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Mvc.xml
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.dll
+C:\Leo\Alura\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.pdb
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\csc.exe
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\System.Collections.Immutable.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\vbc.exe
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\VBCSCompiler.exe
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\roslyn\VBCSCompiler.exe.config
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.dll.config
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Financas.pdb
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.SqlServer.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.Web.Infrastructure.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Common.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Mvc.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Helpers.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Mvc.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Razor.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Deployment.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Razor.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\WebActivatorEx.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.Data.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.WebData.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\EntityFramework.SqlServer.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Common.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\Ninject.Web.Mvc.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.Data.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\WebMatrix.WebData.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Razor.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Deployment.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Webpages.Razor.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Helpers.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\bin\System.Web.Mvc.xml
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.csprojResolveAssemblyReference.cache
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.Migrations.TabelasIniciais.resources
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.csproj.GenerateResource.Cache
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.dll
+C:\Leo\Entrevista\Financas - Leonardo Gustavo Maran\Financas\obj\Debug\Financas.pdb
