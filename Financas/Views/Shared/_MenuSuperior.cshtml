@@ -1,0 +1,28 @@
+﻿<nav class="navbar navbar-inverse">
+    <div class="navbar-header">
+        <button type="button" data-target=".navbar-collapse" data-toggle="collapse" class="navbar-toggle">Menu</button>
+    </div>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav nav">
+            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+            <li>@Html.ActionLink("Usuários", "Index", "Usuario")</li>
+            <li>@Html.ActionLink("Movimentações", "Index", "Movimentacao")</li>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li>@Html.ActionLink("Deslogar", "Logout", "Login")</li>
+            }
+            else
+            {
+                <li>@Html.ActionLink("Autenticar", "Index", "Login")</li>
+            }
+        </ul>
+    </div>
+</nav>
+
+
+
+
+    
+
+

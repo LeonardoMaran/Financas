@@ -1,0 +1,24 @@
+﻿@model IList<Financas.Entidades.Usuario>
+    @Html.ActionLink("Novo Usuário","Form")
+
+    <table class= "col-md-12 table table-hover">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>E-mail</th>
+        </tr>
+    </thead>
+    <tbody class= "col-md-12" >
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.ID</td>
+                <td>@usuario.Nome</td>
+                <td>@usuario.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+    
